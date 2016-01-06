@@ -1,0 +1,28 @@
+name: thorjussen
+favicon: null
+layout_spectrum: 0.6294052919838578
+typography_spectrum: 0.08063202607445419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4807301894761622
+  lightness: 0.36796314595267177
+  saturation: 0.6924192411825061
+  rhythmicContrast: 0.5713790238369256
+purpose: []
